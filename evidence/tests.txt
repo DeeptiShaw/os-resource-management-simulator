@@ -1,0 +1,15 @@
+test_bad_burst (test_simulator.Tests.test_bad_burst) ... ok
+test_bad_disk (test_simulator.Tests.test_bad_disk) ... ok
+test_bad_frames (test_simulator.Tests.test_bad_frames) ... ok
+test_bad_maximum (test_simulator.Tests.test_bad_maximum) ... ok
+test_disk (test_simulator.Tests.test_disk) ... ok
+test_fcfs (test_simulator.Tests.test_fcfs) ... ok
+test_memory (test_simulator.Tests.test_memory) ... ok
+test_safe (test_simulator.Tests.test_safe) ... ok
+test_single (test_simulator.Tests.test_single) ... ok
+test_unsafe (test_simulator.Tests.test_unsafe) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.000s
+
+OK
